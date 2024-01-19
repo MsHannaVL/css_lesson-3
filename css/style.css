@@ -1,0 +1,33 @@
+h2 {
+    font-family: Arial;
+    font-size: 1.2em;
+    color: #94b767;
+    padding: 5px 0 0 7px;
+    background-image:url("../images/verh.gif");
+    background-repeat: no-repeat;
+    background-position: top, left;
+}
+.b1 {
+    width: 424px;
+    background-image:url("../images/telo.gif");
+    background-repeat: repeat-y;
+    
+}
+.b3 {
+    font-family: Tahoma;
+    font-size: 0.8em;
+    text-indent: 7%;
+    background-image:url("../images/niz.gif");
+    background-repeat: no-repeat;
+    background-position: bottom, left;
+    margin: 0px;
+    padding: 0px 5px 15px 5px;
+}
+.b2 {
+    width: 414px;
+    font-family: Tahoma;
+    font-size: 0.8em;
+    text-indent: 7%;
+    margin: 0px;
+    padding: 0 5px 0 5px;
+}
